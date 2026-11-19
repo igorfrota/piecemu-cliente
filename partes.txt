@@ -1,0 +1,7 @@
+PieceMu_Cliente.p00	94371840
+PieceMu_Cliente.p01	94371840
+PieceMu_Cliente.p02	94371840
+PieceMu_Cliente.p03	94371840
+PieceMu_Cliente.p04	94371840
+PieceMu_Cliente.p05	94371840
+PieceMu_Cliente.p06	52988535
